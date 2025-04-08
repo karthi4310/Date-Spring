@@ -1,0 +1,3 @@
+[submodule "farmer-backend"]
+	path = farmer-backend
+	url = https://github.com/karthi4310/Farmer-Backend-Spring.git
