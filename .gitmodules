@@ -1,3 +1,6 @@
 [submodule "farmer-backend"]
 	path = farmer-backend
 	url = https://github.com/karthi4310/Farmer-Backend-Spring.git
+[submodule "backend/farmer/farmer-module/DATE-PROJECT-DB"]
+	path = backend/farmer/farmer-module/DATE-PROJECT-DB
+	url = https://github.com/Kiran212-sketch/DATE-PROJECT-DB.git
